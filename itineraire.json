@@ -1,0 +1,335 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Évasion Relaxante aux Açores : Ponta Delgada et ses Trésors Naturels",
+  "budget_total": "Environ 2650 €/personne",
+  "duree": "8 jours",
+  "temps_vol": "12h00 (depuis Laporte, etats unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Ponta Delgada",
+      "legende": "Après un long voyage, installez-vous confortablement et imprégnez-vous de l'atmosphère charmante de Ponta Delgada. Une balade tranquille le long du port est parfaite pour débuter.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🛬 <strong>Arrivée à Ponta Delgada</strong>: Atterrissage à l'aéroport João Paulo II et transfert vers votre hébergement.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous détendre après le vol.",
+        "🚶‍♂️ <strong>Balade au Portas do Mar</strong>: Flânez le long de la marina, admirez les bateaux et les Portas da Cidade, symboles de la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        },
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument",
+          "coords": { "lat": 37.7865, "lng": -25.6698 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La première journée est légère pour récupérer du décalage horaire et du voyage. Le centre de Ponta Delgada est très agréable à explorer à pied."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Immersion volcanique à Furnas",
+      "legende": "Découvrez la puissance géothermique des Açores à Furnas, entre jardins luxuriants et sources chaudes apaisantes. Une expérience relaxante et unique vous attend.",
+      "lieu": "Furnas",
+      "activites": [
+        "🌳 <strong>Parque Terra Nostra</strong>: Baignade dans le bassin thermal de fer et promenade dans ce jardin botanique exceptionnel.",
+        "♨️ <strong>Fumarolas das Furnas</strong>: Observez les fumerolles et les marmites de boue bouillonnante, témoins de l'activité volcanique.",
+        "🍽️ <strong>Dégustation du Cozido das Furnas</strong>: Savourez ce plat traditionnel cuit lentement sous terre grâce à la chaleur volcanique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin thermal",
+          "coords": { "lat": 37.7711, "lng": -25.3135 }
+        },
+        {
+          "nom_recherche": "Fumarolas das Furnas, Furnas",
+          "categorie": "Site géothermique",
+          "coords": { "lat": 37.7745, "lng": -25.3094 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Conseil pratique",
+          "texte": "Le bassin du Parque Terra Nostra tache les maillots de bain. Prévoyez un maillot foncé ou un vieux maillot pour cette expérience."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Les paysages emblématiques de Sete Cidades",
+      "legende": "Explorez l'un des paysages les plus iconiques des Açores, les lacs jumeaux de Sete Cidades, et terminez par une douceur locale.",
+      "lieu": "Sete Cidades",
+      "activites": [
+        "👀 <strong>Miradouro da Vista do Rei</strong>: Admirez la vue panoramique sur les lacs bleu et vert de Sete Cidades, un spectacle inoubliable.",
+        "🚶‍♀️ <strong>Balade autour de Lagoa das Sete Cidades</strong>: Profitez d'une promenade paisible le long des rives du lac ou dans le charmant village.",
+        "🍍 <strong>Visite d'une plantation d'ananas</strong>: Découvrez la culture unique de l'ananas des Açores dans une serre traditionnelle."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8596, "lng": -25.7925 }
+        },
+        {
+          "nom_recherche": "Lagoa das Sete Cidades, Sete Cidades",
+          "categorie": "Lac",
+          "coords": { "lat": 37.8631, "lng": -25.7801 }
+        },
+        {
+          "nom_recherche": "Plantação de Ananás dos Açores, Ponta Delgada",
+          "categorie": "Plantation",
+          "coords": { "lat": 37.7663, "lng": -25.6806 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo incontournable",
+          "texte": "Le Miradouro da Vista do Rei offre la vue la plus célèbre des Açores. Ne manquez pas d'immortaliser ce moment!"
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🔥",
+      "titre": "Beauté sauvage de Lagoa do Fogo et détente thermale",
+      "legende": "Plongez dans la nature préservée autour de Lagoa do Fogo, puis offrez-vous un moment de pure détente dans les eaux chaudes de Caldeira Velha.",
+      "lieu": "Lagoa do Fogo",
+      "activites": [
+        "⛰️ <strong>Miradouro da Lagoa do Fogo</strong>: Admirez ce lac volcanique d'une beauté sauvage, souvent entouré de brume, offrant un panorama mystique.",
+        "♨️ <strong>Caldeira Velha</strong>: Baignez-vous dans les piscines naturelles d'eau chaude, au cœur d'une végétation luxuriante et sous une cascade.",
+        "🏺 <strong>Visite de Cerâmica Vieira</strong>: Découvrez l'artisanat local en visitant cette fabrique de céramique traditionnelle à Lagoa."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Lagoa do Fogo, Lagoa",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.7736, "lng": -25.4746 }
+        },
+        {
+          "nom_recherche": "Caldeira Velha, Ribeira Grande",
+          "categorie": "Sources chaudes",
+          "coords": { "lat": 37.7946, "lng": -25.4789 }
+        },
+        {
+          "nom_recherche": "Cerâmica Vieira, Lagoa",
+          "categorie": "Artisanat",
+          "coords": { "lat": 37.7471, "lng": -25.5672 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Nature luxuriante",
+          "texte": "Caldeira Velha est un véritable havre de paix, où la nature et les eaux thermales se combinent pour une expérience sensorielle unique."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌊",
+      "titre": "Charme de la côte Nordeste et ses jardins",
+      "legende": "Partez à la découverte de la région de Nordeste, réputée pour ses paysages côtiers spectaculaires, ses phares emblématiques et ses jardins fleuris.",
+      "lieu": "Nordeste",
+      "activites": [
+        "💧 <strong>Parque Natural da Ribeira dos Caldeirões</strong>: Explorez ce parc enchanteur avec ses cascades, ses moulins à eau et sa végétation dense.",
+        "燈 <strong>Farol do Arnel</strong>: Admirez le plus ancien phare des Açores, offrant des vues imprenables sur l'océan (accès en voiture difficile, préférer la marche ou taxi).",
+        "🌸 <strong>Miradouro da Ponta do Sossego</strong>: Détendez-vous dans ce magnifique jardin-belvédère, offrant des vues panoramiques sur la côte."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Natural da Ribeira dos Caldeirões, Nordeste",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 37.8398, "lng": -25.2671 }
+        },
+        {
+          "nom_recherche": "Farol do Arnel, Nordeste",
+          "categorie": "Phare",
+          "coords": { "lat": 37.8202, "lng": -25.1328 }
+        },
+        {
+          "nom_recherche": "Miradouro da Ponta do Sossego, Nordeste",
+          "categorie": "Jardin-belvédère",
+          "coords": { "lat": 37.8306, "lng": -25.1487 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Conduite panoramique",
+          "texte": "La route vers Nordeste est l'une des plus belles de l'île, jalonnée de points de vue et de jardins fleuris. Prenez votre temps pour en profiter."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🐳",
+      "titre": "Rencontre marine et saveurs de thé",
+      "legende": "Vivez une expérience inoubliable en mer à la rencontre des cétacés, puis détendez-vous dans les uniques plantations de thé d'Europe.",
+      "lieu": "Ponta Delgada & Gorreana",
+      "activites": [
+        "🐋 <strong>Observation de baleines et dauphins</strong>: Embarquez pour une excursion respectueuse de la faune marine, une expérience magique et relaxante.",
+        "☕ <strong>Plantation de thé Gorreana</strong>: Visitez la plus ancienne plantation de thé d'Europe, découvrez le processus de fabrication et dégustez un thé local.",
+        "🚶‍♀️ <strong>Promenade dans les champs de thé</strong>: Profitez d'une balade apaisante au milieu des plantations verdoyantes, avec vue sur l'océan."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Portas do Mar, Ponta Delgada",
+          "categorie": "Port",
+          "coords": { "lat": 37.7865, "lng": -25.6698 }
+        },
+        {
+          "nom_recherche": "Chá Gorreana, Maia",
+          "categorie": "Plantation de thé",
+          "coords": { "lat": 37.8175, "lng": -25.3916 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Respect de la nature",
+          "texte": "Les excursions d'observation sont menées par des opérateurs certifiés qui respectent la distance et le bien-être des animaux marins."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛍️",
+      "titre": "Derniers charmes de Ponta Delgada",
+      "legende": "Profitez de votre dernière journée pour explorer les recoins de Ponta Delgada, faire quelques emplettes et vous imprégner une dernière fois de l'ambiance açorienne.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🛍️ <strong>Marché da Graça</strong>: Flânez dans ce marché coloré, découvrez les produits locaux, les fruits exotiques et l'artisanat.",
+        "⛪ <strong>Église de São Sebastião</strong>: Visitez cette magnifique église au cœur de la ville, avec sa façade manuéline.",
+        "🌳 <strong>Jardim António Borges</strong>: Détendez-vous dans ce jardin romantique, véritable oasis de verdure avec ses grottes et ses arbres centenaires."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado da Graça, Ponta Delgada",
+          "categorie": "Marché",
+          "coords": { "lat": 37.7853, "lng": -25.6709 }
+        },
+        {
+          "nom_recherche": "Igreja Matriz de São Sebastião, Ponta Delgada",
+          "categorie": "Église",
+          "coords": { "lat": 37.7863, "lng": -25.6705 }
+        },
+        {
+          "nom_recherche": "Jardim António Borges, Ponta Delgada",
+          "categorie": "Jardin",
+          "coords": { "lat": 37.7845, "lng": -25.6797 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché est l'endroit idéal pour acheter des souvenirs locaux comme des liqueurs, des fromages ou des produits à base d'ananas."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Départ des Açores",
+      "legende": "Après une semaine riche en découvertes et en détente, il est temps de quitter les Açores, la tête pleine de souvenirs inoubliables.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🎁 <strong>Derniers achats</strong>: Profitez des dernières heures pour quelques emplettes de dernière minute.",
+        "✈️ <strong>Transfert à l'aéroport</strong>: Rendez-vous à l'aéroport João Paulo II pour votre vol retour.",
+        "👋 <strong>Vol retour</strong>: Départ de Ponta Delgada, les Açores vous attendent pour une prochaine aventure."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Conseil aéroport",
+          "texte": "Prévoyez suffisamment de temps pour le retour de la voiture de location et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 1357 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 480 €/pers (60€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 440 €/pers (hôtel 3* sur 7 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 150 €/pers (sources chaudes, observation baleines, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin et Juillet (moins de pluie)", "symbole": "🏖️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures varient entre 15 et 25°C en été. Prévoir des couches de vêtements, un imperméable et un maillot de bain.", "symbole": "🌦️" },
+    { "titre": "L'euro est la monnaie locale. Les cartes de crédit sont largement acceptées, mais un peu d'espèces est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La location de voiture est fortement recommandée pour explorer l'île. Conduite à droite, routes bien entretenues.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Un adaptateur de type F (européen) est nécessaire.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les Açores sont l'un des rares endroits en Europe où le thé est cultivé. Les plantations de Gorreana et Porto Formoso produisent du thé noir et vert depuis le 19ème siècle."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le Cozido das Furnas, un plat traditionnel, est cuit pendant des heures dans des marmites enfouies sous terre, utilisant la chaleur naturelle des fumerolles volcaniques. Un véritable four naturel!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Cozido das Furnas",
+      "description": "Un ragoût de viandes et légumes cuit lentement dans le sol volcanique des Furnas, offrant une saveur unique et fumée."
+    },
+    {
+      "symbole": "🍍",
+      "titre": "Ananás dos Açores",
+      "description": "L'ananas des Açores, plus petit et plus sucré que les variétés tropicales, cultivé en serres et réputé pour son goût intense."
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Bolo Lêvedo",
+      "description": "Un pain doux et légèrement sucré, souvent consommé au petit-déjeuner ou en collation, parfait grillé avec du beurre ou de la confiture."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/IAH-PDL/2026-05-15/2026-05-23", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Açores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Açores", "url": "https://www.rentalcars.com/fr/country/pt/azores/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/prev.local/index.jsp?localID=24&cidadeID=27", "symbole": "🌤️" }
+  ]
+}
